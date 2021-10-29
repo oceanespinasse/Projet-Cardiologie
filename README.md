@@ -1,6 +1,6 @@
 # Diagnostic ECG automatique à l'aide d'un réseau de neurones profonds
 Scripts et modules pour la formation et le test des réseaux de neurones profonds pour la classification automatique des ECG. Code d'accompagnement de l'article "Diagnostic automatique de l'ECG à 12 dérivations à l'aide d'un réseau de neurones profonds".
- https://www.nature.com/articles/s41467-020-15432-4.
+ https://www-nature-com.translate.goog/articles/s41467-020-15432-4?error=cookies_not_supported&code=137bc103-d893-41b7-8a46-002041f95c18&_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=nui,sc.
 
 --------
 
